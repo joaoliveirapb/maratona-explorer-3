@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-**Projeto desenvolvido no evento Maratona Explorer 3 da Rocketseat 🚀**
+**Projeto construído no evento Maratona Explorer 3 da Rocketseat 🚀**
 
 [🔗 Clique aqui para acessar](https://zippy-kulfi-81e86c.netlify.app/)
 
